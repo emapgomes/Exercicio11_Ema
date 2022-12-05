@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercicio 11</title>
+    <title>projeto-social</title>
     
     <link rel="stylesheet" href="style.css">
  
@@ -13,9 +13,28 @@
     <main>
         <section class="telefone">
             <iframe src="home.html" frameborder="0" name="tela"></iframe>
+
+            <main>
+            
+                <section>
+        
+                    <iframe width="260" height="460" src="https://www.textilar.pt" frameborder="0" name="frame1"></iframe>
+        
+                </section>         
+        
+            </main>
+            
         </section>
         <section class="rede-sociais">
-      
+            <body>
+
+
+            
+                
+            
+            </body>
+            
+            </html>
         </section>
     </main>
 </body>
